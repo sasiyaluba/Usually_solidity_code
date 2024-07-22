@@ -1,4 +1,4 @@
-contract UniswapV2ERC20 {
+contract ERC20 {
     string name;
     string symbol;
     uint8 public constant decimals = 18;
